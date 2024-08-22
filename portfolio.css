@@ -1,0 +1,120 @@
+header{
+    background-color:whitesmoke;
+    padding: 10px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center ;
+}
+
+.quote{
+    background-color:black;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+}
+.logo{
+    font-size: 24px;
+    color: rgb(255, 68, 0);
+    font-weight: bolder;
+}
+.text1{
+    color:whitesmoke;
+}
+.button1:hover{
+    background-color: aliceblue;
+    border: none;
+    color: rgb(255, 68, 0);
+    cursor: pointer;
+
+    
+}
+img{
+    padding: 20px;
+}
+
+.profile{
+   display: flex;
+}
+.name{
+   margin: 60px;
+}
+ .pro{
+    background-image: url(gradient-black-background-with-cubes/6150433.jpg);
+    padding: 10px;
+    
+} 
+.pro1{
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+.pro2{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+.line{
+  
+    margin:0px 150px;
+}
+.cont{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+} 
+.br{
+    width: 200px;
+    height: 220px;
+    border-radius: 20px;
+    background-color:whitesmoke;
+}
+.br1{
+    
+    width: 200px;
+    height: 220px;
+    border-radius: 20px;
+    background-color:whitesmoke;
+}
+.br2{
+    width: 200px;
+    height: 220px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+.ins{
+    background-color:wheat;
+}
+.ins1{
+    display: flex;
+    justify-content: center;
+}
+.ins2{
+    display: flex;
+    justify-content: space-around;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    
+    background-color: rgb(192, 225, 237);
+}
+.CONT1{
+    display: flex;
+    justify-content: flex-start;
+}
+.button2:hover{
+    background-color: aliceblue;
+    border: none;
+    color: rgb(255, 68, 0);
+    cursor: pointer;
+    
+}
